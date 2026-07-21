@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ~/Apps/FreesmLauncher-Linux-x86_64.AppImage
