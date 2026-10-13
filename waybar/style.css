@@ -1,0 +1,25 @@
+* {
+    font-family: monospace;
+    font-size: 13px;
+}
+
+window#waybar {
+    background-color: rgba(26, 27, 38, 0.67);
+    color: #c0caf0;
+}
+
+#workspaces button {
+    padding: 0 5px;
+    color: #c0caf5;
+}
+
+#workspaces button.focused {
+    background-color: #bb9af7;
+    color: #1a1b26;
+    border-radius: 4px;
+}
+
+#clock, #battery, #network, #wireplumber {
+    padding: 0 5px;
+}
+
