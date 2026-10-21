@@ -3,6 +3,10 @@
   "logo": {
     "type": "builtin",
     "source": "xenia",
+    //"source": "ximper",
+    //"source": "yiffos",
+    //"source": "AsteroidOS",
+    //"source": "EndeavourOS",
     "padding": {
       "top": 2,
       "left": 1,
