@@ -1,7 +1,7 @@
 
 #THESE ARE THE PACKAGES I HAVE ON MY LATEST VOID DESKTOP ENVIRONMENT
 
-# Install with "sudo xbps-install -Syu"
+# Install with "sudo xbps-install -Su"
 
 Waybar-0.15.0_4
 base-devel-20181003_2
