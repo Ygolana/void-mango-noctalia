@@ -2,11 +2,13 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
     "type": "builtin",
-    //"source": "xenia",
-    //"source": "ximper",
-    //"source": "yiffos",
+    //"source": "Xenia",
+    //"source": "Ximper",
+    //"source": "Yiffos",
     //"source": "AsteroidOS",
-    "source": "EndeavourOS",
+    //"source": "EndeavourOS",
+    //"source": "Redstar",
+    "source": "NixOS",
     "padding": {
       "top": 2,
       "left": 1,
