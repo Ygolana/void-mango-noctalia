@@ -1,6 +1,8 @@
 
 #THESE ARE THE PACKAGES I HAVE ON MY LATEST VOID DESKTOP ENVIRONMENT
 
+# Install with "sudo xbps-install -Syu"
+
 Waybar-0.15.0_4
 base-devel-20181003_2
 base-system-0.114_2
@@ -32,6 +34,6 @@ vim-9.2.1031_1
 wireplumber-0.5.18_1
 xwayland-satellite-0.8.3_1
 yazi-26.9.1_1
-
+wl-clipboard
 
 
