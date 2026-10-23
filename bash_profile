@@ -9,3 +9,5 @@
 
 # Created by `pipx` on 2026-10-13 13:38:59
 export PATH="$PATH:/home/zieno/.local/bin"
+
+# Don't forget to copy the 11th/export line on ~/.bashrc then use the source command to that directory
